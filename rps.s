@@ -235,9 +235,6 @@ main:
 ; Wrap it up
 .end:
 
-;***POSSIBLE 'TRY AGAIN?' FUNCTION?***
-
-
 
 	mov  	rax, 0
 	pop	 	rbp
